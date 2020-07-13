@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Device_Peripherasl_Barcode_Generator.iml" filepath="$PROJECT_DIR$/../Device_Peripherasl_Barcode_Generator.iml" group="Device_Peripherasl_Barcode_Generator" />
+      <module fileurl="file://$PROJECT_DIR$/app.iml" filepath="$PROJECT_DIR$/app.iml" group="Device_Peripherasl_Barcode_Generator/app" />
+    </modules>
+  </component>
+</project>
